@@ -1,0 +1,15 @@
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\bin\Debug\net6.0\App de consola.exe
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\bin\Debug\net6.0\App de consola.deps.json
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\bin\Debug\net6.0\App de consola.runtimeconfig.json
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\bin\Debug\net6.0\App de consola.dll
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\bin\Debug\net6.0\App de consola.pdb
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\App de consola.csproj.AssemblyReference.cache
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\App de consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\App de consola.AssemblyInfoInputs.cache
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\App de consola.AssemblyInfo.cs
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\App de consola.csproj.CoreCompileInputs.cache
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\App de consola.dll
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\refint\App de consola.dll
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\App de consola.pdb
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\App de consola.genruntimeconfig.cache
+C:\javineta\clases-javineta\Clases\1\App de consola\App de consola\obj\Debug\net6.0\ref\App de consola.dll
